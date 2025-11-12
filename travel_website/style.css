@@ -1,0 +1,16 @@
+body {
+  background: #f7f7f9;
+  font-family: Arial, sans-serif;
+}
+.card-post {
+  margin-bottom: 1rem;
+}
+.profile-pic {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.navbar-brand {
+  font-weight: 700;
+}
